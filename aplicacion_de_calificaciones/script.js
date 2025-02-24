@@ -1,3 +1,5 @@
+
+
 function getAverage(scores) {
   let sum = 0;
 
